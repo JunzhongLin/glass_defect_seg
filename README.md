@@ -1,6 +1,6 @@
 # Demo : Segmentation of microscope image of glass surface for defects
 ---
-![Screenshot](./doc/project_icon.png)
+![Screenshot](glass_defect_seg/doc/project_icon.PNG)
 Deep learning model for the detection of defects on the glass surface. Pytorch was mainly used in this project. This is a DEMO version for the origin project. 
 
 # Project Background & Goal
